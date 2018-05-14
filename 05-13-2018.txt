@@ -1,0 +1,37 @@
+
+ 
+Pool Table Number	 :  5
+Start Date TIme		 :  2018-05-13 15:53:08.364592
+End Date Time		 :  2018-05-13 21:58:00.232901
+Total Tmie Played	 :  6hour 04mins
+Total Cost			 :  $210
+ 
+Pool Table Number	 :  10
+Start Date TIme		 :  2018-05-13 14:12:52.122473
+End Date Time		 :  2018-05-13 22:01:00.228909
+Total Tmie Played	 :  7hour 48mins
+Total Cost			 :  $240
+ 
+Pool Table Number	 :  5
+Start Date TIme		 :  2018-05-13 16:42:01.913405
+End Date Time		 :  2018-05-13 22:04:18.276592
+Total Tmie Played	 :  5hour 22mins
+Total Cost			 :  $180
+ 
+Pool Table Number	 :  11
+Start Date TIme		 :  2018-05-13 20:36:09.985081
+End Date Time		 :  2018-05-13 22:04:25.771834
+Total Tmie Played	 :  1hour 28mins
+Total Cost			 :  $60
+ 
+Pool Table Number	 :  7
+Start Date TIme		 :  2018-05-13 17:36:42.411669
+End Date Time		 :  2018-05-13 22:04:51.909731
+Total Tmie Played	 :  4hour 28mins
+Total Cost			 :  $150
+ 
+Pool Table Number	 :  8
+Start Date TIme		 :  2018-05-13 16:42:02.761998
+End Date Time		 :  2018-05-13 22:05:15.071962
+Total Tmie Played	 :  5hour 23mins
+Total Cost			 :  $180
