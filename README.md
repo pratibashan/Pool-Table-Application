@@ -38,3 +38,4 @@ while(to_continue):
     else:
         print("Press a valid entry")
 ```
+<img width="732" alt="pooltable" src="https://user-images.githubusercontent.com/38846724/42673878-121c987c-8633-11e8-8a6c-ca6d96c6e509.png">
