@@ -1,0 +1,7 @@
+
+ 
+Pool Table Number	 :  1
+Start Date TIme		 :  2018-07-12 21:42:57.711746
+End Date Time		 :  2018-07-12 23:35:41.975035
+Total Tmie Played	 :  1hour 52mins
+Total Cost			 :  $60
