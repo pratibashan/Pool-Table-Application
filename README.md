@@ -1,10 +1,10 @@
 # Pool Table Management Application
 
 ### Overview:
-I created this project using PYTHON.
-This Application allows us to view all the  pool tables, along with check-ins and check-outs .The pool tables can be checked in only if the table is not Occupied .Once the the table is checked out, a log is written in the text file to keep track of all the tables.
+This Application allows users to view all the  pool tables, along with check-ins and check-outs .The pool tables can be checked in only if the table is not Occupied .Once the the table is checked out, a log is written in the text file to keep track of all the tables.
 
-
+### Technology used:
+- Python
 ---
 
 ```python
